@@ -1,6 +1,6 @@
-# Boas-vindas ao repositório do projeto App de Receitas!
+# Boas-vindas ao projeto App de Receitas!
 
-<details>
+
   <summary><strong>:memo: Tecnologia Usada: </strong></summary><br />
   
   React,
@@ -9,20 +9,22 @@
   Twind e css,
   test em Jest.
 
-</details>
-
-<details>
- 
-  * Este Projeto foi desenvolvido em grupo: @marcos2872, @lcsrbr, @thiagolvr, @joaorfp
-
-  * Em`9` dias de projeto;
-
-</details><br />
 
 # Orientações
 
- <details>
-Organizamos as atividades em grupo com a ferramenta Trello
-</details>
+Para acessar o projeto, atente-se a cada passo descrito a seguir, e se tiver qualquer dúvida, me envie uma mensagem :)
+
+Clone o repositório
+Use o comando: git@github.com:maykom2203/App-de-Receitas.git
+
+Instale as dependências
+npm install.
+
+
+ <summary><strong>:memo:Observações </strong></summary><br />
+
+  * Este Projeto foi desenvolvido em grupo: @marcos2872, @lcsrbr, @thiagolvr, @joaorfp
+  * Organizamos as atividades em grupo com a ferramenta Trello
+  * Em`9` dias de projeto;
 
 
