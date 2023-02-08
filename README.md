@@ -1,13 +1,28 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Boas-vindas ao repositório do projeto App de Receitas!
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<details>
+  <summary><strong>:memo: Tecnologia Usada: </strong></summary><br />
+  
+  React,
+  Hooks customizados,
+  Redux Toolkit,
+  Twind e css,
+  test em Jest.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+</details>
+
+<details>
+ 
+  * Este Projeto foi desenvolvido em grupo: @marcos2872, @lcsrbr, @thiagolvr, @joaorfp
+
+  * Em`9` dias de projeto;
+
+</details><br />
+
+# Orientações
+
+ <details>
+Organizamos as atividades em grupo com a ferramenta Trello
+</details>
+
+
