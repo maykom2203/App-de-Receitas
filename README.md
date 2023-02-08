@@ -24,6 +24,6 @@ npm install.
 
   * Este Projeto foi desenvolvido em grupo: [@marcos2872](https://github.com/marcos2872), [@lcsrbr](https://github.com/lcsrbr), [@thiagolvr](https://github.com/thiagolvr), [@joaorfp](https://github.com/joaorfp)
   * Organizamos as atividades em grupo com a ferramenta Trello
-  * Em`9` dias de projeto;
+  * 9` dias de projeto;
 
 
